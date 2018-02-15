@@ -1,3 +1,4 @@
+
 # CSX_450_2_Project_3 - EDA & Data Preparation
 
 
@@ -63,5 +64,6 @@ Lower status of the population (percent).
 
 #### medv
 Median value of owner-occupied homes in \$1000s.
+
 
 
